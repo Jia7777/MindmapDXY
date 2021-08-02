@@ -31,3 +31,15 @@ H<sub>2</sub>O  CO<sub>2</sub>
 点击进入[百度](http://www.baidu.com)
 
 > 我是引用
+
+
+# 关于使用html标签
+
+## <table border="1"><tr><td>row 1, cell 1</td><td>row 1, cell 2</td></tr><tr><td>row 2, cell 1</td><td>row 2, cell 2</td></tr></table>
+
+
+# 关于使用的插件
+## 实时渲染工具 
+- markdown min map preview
+- markmap 推荐，可以生成基于web的导图
+  
