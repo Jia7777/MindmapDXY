@@ -33,7 +33,7 @@
           - 金黄色葡萄球菌
        
         - 细菌 (有序列表)
-          1. 铜绿假单胞菌
+          1. [铜绿假单胞菌](https://baike.baidu.com/item/%E9%93%9C%E7%BB%BF%E5%81%87%E5%8D%95%E8%83%9E%E8%8F%8C/1407760?fr=aladdin)
           2. 流感嗜血杆菌
           3. 卡他莫拉菌
           4. 肺炎克雷伯杆菌
@@ -61,6 +61,9 @@
       - 解剖缺陷
         - 巨大气管-支气管症（Mounier-Kuhn 综合征）
         - 支气管软骨发育不全（Williams-Campell综合征）
+    - 鉴别诊断
+      - [支气管哮喘](https://drlihaoz.github.io/MindmapDXY/MindMapWeb/asthma.html)
+      - 慢性阻塞性肺疾病
   - 思维导图的优点
     - 可以无限划分
     - 符合医学知识的网络结构的特点
