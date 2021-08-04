@@ -21,6 +21,8 @@ H<sub>2</sub>O  CO<sub>2</sub>
 
 # 关于列表
 1. 我是有序列表1
+   1. 肺
+      1. 钢铁股
 2. 我是有序列表2
 3. 我是有序列表3
 
@@ -35,7 +37,7 @@ H<sub>2</sub>O  CO<sub>2</sub>
 
 # 关于使用html标签
 
-## <table border="1"><tr><td>row 1, cell 1</td><td>row 1, cell 2</td></tr><tr><td>row 2, cell 1</td><td>row 2, cell 2</td></tr></table>
+## <table border="2"><tr><td>row 1, cell 1</td><td>row 1, cell 2</td></tr><tr><td>row 2, cell 1</td><td>row 2, cell 2</td></tr></table>
 
 
 # 关于使用的插件
@@ -43,3 +45,4 @@ H<sub>2</sub>O  CO<sub>2</sub>
 - markdown min map preview
 - markmap 推荐，可以生成基于web的导图
   
+# ![关于插入图片](../MindMapWeb/logo.jpeg)
