@@ -88,7 +88,7 @@
           - 感谢微软爸爸
           - 插件
             - Markdown All in One 用于使vscode支持markdown语法
-            - markup 用于将markdown文件渲染成为网页html
+            - markmap 用于将markdown文件渲染成为网页html
             - Markdown Mind Map Preview 用于将markdown文件渲染成为矢量图片
             - Mermaid Markdown Syntax Highlighting 用于语法高亮，方便写作
             - Markdown Preview Mermaid Support 用于渲染流程图
