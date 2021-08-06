@@ -31,13 +31,6 @@
           - 卡他莫拉菌
           - 肺炎克雷伯杆菌
           - 金黄色葡萄球菌
-       
-        - 细菌 (有序列表)
-          1. [铜绿假单胞菌](https://baike.baidu.com/item/%E9%93%9C%E7%BB%BF%E5%81%87%E5%8D%95%E8%83%9E%E8%8F%8C/1407760?fr=aladdin)
-          2. 流感嗜血杆菌
-          3. 卡他莫拉菌
-          4. 肺炎克雷伯杆菌
-          5. 金黄色葡萄球菌
         
         - 真菌
           - 曲霉菌
@@ -51,23 +44,26 @@
         - 肿瘤压迫
         - 外源性压迫
         - 肺移植术后
-    - 先天性（少见）常为弥漫性
+    - 先天性（少见）
       - 遗传缺陷
         - 囊性纤维化
         -  α-抗胰蛋白酶缺乏
       - 免疫缺陷
         - 低免疫球蛋白血症
-        - gG 亚群的缺陷（IgG2，IgG4）
+        - IgG 亚群的缺陷（IgG2，IgG4）
       - 解剖缺陷
         - 巨大气管-支气管症（Mounier-Kuhn 综合征）
         - 支气管软骨发育不全（Williams-Campell综合征）
-    - 鉴别诊断
-      - [支气管哮喘](https://drlihaoz.github.io/MindmapDXY/MindMapWeb/asthma.html)
-      - 慢性阻塞性肺疾病
+   
   - 思维导图的优点
-    - 可以无限划分
     - 符合医学知识的网络结构的特点
     - 阅读效率无敌，尤其对于医学生的复习
+    - 可以无限划分和扩展
+    - 导图套娃
+      - [支气管哮喘](https://drlihaoz.github.io/MindmapDXY/MindMapWeb/asthma.html)
+    - 导图超链接
+      - [铜绿假单胞菌](https://baike.baidu.com/item/%E9%93%9C%E7%BB%BF%E5%81%87%E5%8D%95%E8%83%9E%E8%8F%8C/1407760?fr=aladdin)
+
   - 思维导图软件
     - 知犀思维导图
     - 百度脑图
@@ -90,6 +86,12 @@
       - 神一样的工具
         - VScode
           - 感谢微软爸爸
+          - 插件
+            - Markdown All in One 用于使vscode支持markdown语法
+            - markmap 用于将markdown文件渲染成为网页html
+            - Markdown Mind Map Preview 用于将markdown文件渲染成为矢量图片
+            - Mermaid Markdown Syntax Highlighting 用于语法高亮，方便写作
+            - Markdown Preview Mermaid Support 用于渲染流程图
         - Markdown
         - Github
 
